@@ -1,0 +1,6 @@
+ azure:
+   cosmos:
+     database: EmployeeDetails
+     populate-query-metrics: false
+     uri: https://knowledgefactory.documents.azure.com:443/
+     key: e5fdjbbZ2VJ6F2gA42Y717VeOMHwgWciFNy6EbDuEAEA8mTM3BBCMlkogc69792vjEWfK1pnT5CHACDbROorRQ==
